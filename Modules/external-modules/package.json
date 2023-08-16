@@ -1,0 +1,22 @@
+{
+  "name": "external-modules",
+  "version": "1.0.0",
+  "description": "This is npm tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "fruits",
+    "nodemon",
+    "node.js"
+  ],
+  "author": "Kaium-Al-Limon",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.9.7",
+    "random-movie-names": "^1.0.2"
+  }
+}
